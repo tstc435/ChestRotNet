@@ -1,0 +1,6 @@
+model_checkpoint_path: "best_model.ckpt-68999"
+all_model_checkpoint_paths: "best_model.ckpt-44999"
+all_model_checkpoint_paths: "best_model.ckpt-45999"
+all_model_checkpoint_paths: "best_model.ckpt-53999"
+all_model_checkpoint_paths: "best_model.ckpt-58999"
+all_model_checkpoint_paths: "best_model.ckpt-68999"
